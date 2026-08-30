@@ -188,7 +188,7 @@ export const newArrivals = [
     img: '/img/tower-bolt-white.jpg',
     brand: 'Dorlife',
     detail: {
-      gallery: ['/img/tower-bolt-white.jpg', '/img/tower-bolt-angle.jpg', '/img/tower-bolt-grid.jpg', '/img/tower-bolt-door.jpg'],
+      gallery: ['/img/tower-bolt-white.jpg', '/img/tower-bolt-grid.jpg', '/img/tower-bolt-door.jpg'],
       summary:
         'A 300 mm barrel bolt on a one-piece backplate, with a turned knob and a nylon-tipped shoot that drops into the keep without a rattle.',
       overview:
