@@ -39,7 +39,7 @@ export const megaMenu = [
       { title: 'Storage', items: ['Pull-out baskets', 'Tall & pantry units', 'Corner units', 'Waste bins'] },
       { title: 'Mechanisms', items: ['Lift-up stays', 'Pneumatic pumps', 'Furniture locks', 'Cabinet legs & joinery'] },
     ],
-    promo: { title: 'Theeta series', body: 'Volume fittings for modular kitchen and furniture lines.', img: null },
+    promo: { title: 'Theeta series', body: 'Volume fittings for modular kitchen and furniture lines.', img: '/img/banner-theeta-vanity.jpg' },
   },
   {
     label: 'Wardrobe & sliding',
@@ -88,6 +88,18 @@ export const heroSlides = [
     img: null,
   },
 ];
+
+// Brand showcase banners (home page, after New arrivals). The artwork already
+// carries the brand name and a CTA, so the tiles are just clickable images.
+export const brandBanners = [
+  { brand: 'Dorlife', line: 'The door, finished as one set.', img: '/img/banner-dorlife.jpg', href: '#catalogues' },
+  { brand: 'Theeta', line: 'Systems for kitchen and wardrobe.', img: '/img/banner-theeta.jpg', href: '#catalogues' },
+];
+export const finishBanner = {
+  img: '/img/banner-finishes.png',
+  alt: 'Premium finishes — matt black, brushed brass and satin nickel lever handles',
+  href: '#catalogues',
+};
 
 export const stats = [
   { value: '2013', label: 'Established' },
@@ -274,7 +286,7 @@ export const posts = [
     read: '3 min read',
     title: 'Why satin from two lots should still match',
     excerpt: 'In-house plating, and the tolerance we hold on it.',
-    img: null,
+    img: '/img/lever-finishes.jpg',
     body: [
       'A door set fails a site inspection more often for colour than for function. The handle is right, the hinge is right, but the hinge came from a different lot and reads a shade warmer than the handle under the lobby lights. Nobody can say exactly what is wrong; they just know it looks bought in pieces.',
       'The cause is almost always split processing. When plating is sent out, each batch meets a slightly different bath chemistry, temperature and dwell time, and satin — which is a mechanical grain plus a thin plated layer — shows every one of those differences.',

@@ -7,7 +7,7 @@ export default function Manufacturing() {
     <section className="mfg-band" id="manufacturing">
       <div className="mfg-band-grid">
         <div>
-          <span className="kick kick-dark">02 · Manufacturing</span>
+          <span className="kick kick-dark">03 · Manufacturing</span>
           <h2 className="mfg-band-title">Pressed, plated and packed under one roof.</h2>
           <p className="mfg-band-body">Blanking and forming, polishing, plating and assembly all sit on the same floor in Bhiwadi. That is why a satin hinge matches a satin handle from a different lot — and why a private-label run can start at 5,000 pieces without a new supplier in the chain.</p>
           <p className="mfg-band-body"><a className="link-ondark" href="#company">About OM Baba Industries →</a></p>

@@ -5,6 +5,7 @@ import CategoryBar from './components/CategoryBar.jsx';
 import Hero from './components/Hero.jsx';
 import StatBand from './components/StatBand.jsx';
 import ProductRail from './components/ProductRail.jsx';
+import BrandShowcase from './components/BrandShowcase.jsx';
 import Manufacturing from './components/Manufacturing.jsx';
 import Catalogues from './components/Catalogues.jsx';
 import QualityExport from './components/QualityExport.jsx';
@@ -64,6 +65,7 @@ function renderRoute(route) {
           <Hero />
           <StatBand />
           <ProductRail />
+          <BrandShowcase />
           <Manufacturing />
           <Catalogues />
           <QualityExport />

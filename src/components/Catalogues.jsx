@@ -7,7 +7,7 @@ export default function Catalogues() {
   return (
     <section className="sec" id="catalogues">
       <SectionHead
-        number="03" kicker="Catalogues" title="Latest product catalogues"
+        number="04" kicker="Catalogues" title="Latest product catalogues"
         action={<a className="btn btn-secondary" href="#">All catalogues →</a>}
       />
       <hr className="hr" />

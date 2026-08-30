@@ -7,7 +7,7 @@ import SectionHead from './SectionHead.jsx';
 export default function Notes() {
   return (
     <section className="sec" id="notes">
-      <SectionHead number="05" kicker="Notes" title="From the bench"
+      <SectionHead number="06" kicker="Notes" title="From the bench"
         action={<a className="btn btn-secondary" href="#blog">All notes →</a>} />
       <hr className="hr" />
       <div className="grid-3">

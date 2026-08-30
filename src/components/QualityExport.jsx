@@ -5,7 +5,7 @@ export default function QualityExport() {
     <section className="sec" id="quality">
       <div className="sec-head">
         <div>
-          <span className="kick">04 · Quality &amp; export</span>
+          <span className="kick">05 · Quality &amp; export</span>
           <h2 className="sec-title">Documented, not promised</h2>
         </div>
         <a className="btn btn-secondary" href="#export">How we export →</a>

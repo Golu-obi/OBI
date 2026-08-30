@@ -34,7 +34,7 @@ export default function Enquiry() {
       <Frame className="enq">
         <div className="enq-grid">
           <div>
-            <span className="kick">06 · Enquiry</span>
+            <span className="kick">07 · Enquiry</span>
             <h2 className="enq-title">Send us the codes. We'll send the quote.</h2>
             <p className="enq-body">Tell us the families you buy, the quantities and your port. You will get a price list in your currency and incoterm, with lead time per line.</p>
             <dl className="enq-contact">
